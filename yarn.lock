@@ -568,7 +568,7 @@ auto-bind@^2.0.0:
   dependencies:
     "@types/react" "^16.8.12"
 
-ava@^1.2.1:
+ava@1.4.1:
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/ava/-/ava-1.4.1.tgz#4a59289e0c9728e492ec3a5be21d1072636be172"
   integrity sha512-wKpgOPTL7hJSBWpfbU4SA8rlsTZrph9g9g7qYDV7M6uK1rKeW8oCUJWRwCd8B24S4N0Y5myf6cTEnA66WIk0sA==
@@ -3447,7 +3447,7 @@ number-is-nan@^1.0.0:
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
 
-nyc@^14.0.0:
+nyc@14.0.0:
   version "14.0.0"
   resolved "https://registry.yarnpkg.com/nyc/-/nyc-14.0.0.tgz#f9fc4b4d73afc976f76e72352e70f742bbfab829"
   integrity sha512-R1zC6UZak6pzn5BZQorkSH5GdOGafrwyeja+eimS5Tu+KJ/hCgBc8qA1QWSzxQmT2FDl2lbpqPw7tBDbSvhAHg==
@@ -4482,7 +4482,7 @@ standard-engine@~9.0.0:
     minimist "^1.1.0"
     pkg-conf "^2.0.0"
 
-standard@^12.0.1:
+standard@12.0.1:
   version "12.0.1"
   resolved "https://registry.yarnpkg.com/standard/-/standard-12.0.1.tgz#0fc5a8aa6c34c546c5562aae644242b24dae2e61"
   integrity sha512-UqdHjh87OG2gUrNCSM4QRLF5n9h3TFPwrCNyVlkqu31Hej0L/rc8hzKqVvkb2W3x0WMq7PzZdkLfEcBhVOR6lg==
