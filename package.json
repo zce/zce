@@ -39,17 +39,17 @@
   },
   "dependencies": {
     "import-jsx": "^2.0.0",
-    "ink": "^2.1.1",
+    "ink": "^2.3.0",
     "ink-big-text": "^1.0.1",
     "ink-gradient": "^1.0.0",
-    "ink-select-input": "^3.1.0",
-    "opn": "^6.0.0",
+    "ink-select-input": "^3.1.1",
+    "open": "^6.4.0",
     "react": "^16.8.6"
   },
   "devDependencies": {
-    "ava": "2.2.0",
-    "nyc": "14.1.1",
-    "standard": "13.0.0"
+    "ava": "^2.2.0",
+    "nyc": "^14.1.1",
+    "standard": "^13.0.0"
   },
   "engines": {
     "node": ">=6"

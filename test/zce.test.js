@@ -1,7 +1,7 @@
 import test from 'ava'
 import zce from '..'
 
-test('<test-title>', t => {
+test('zce', t => {
   zce()
   t.pass()
 })
