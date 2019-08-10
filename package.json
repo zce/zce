@@ -38,7 +38,7 @@
     "test": "nyc ava"
   },
   "dependencies": {
-    "import-jsx": "^2.0.0",
+    "import-jsx": "^3.0.0",
     "ink": "^2.3.0",
     "ink-big-text": "^1.0.1",
     "ink-gradient": "^1.0.0",
