@@ -1,4 +1,4 @@
-<img src="https://img.zce.me/qrcode/wechat.jpg" alt="WeChat: zce-me" align="right" height="220">
+<img src="https://img.zce.me/qrcode/wechat.jpg" alt="WeChat: zce-me" align="right" height="240">
 
 ### 👋 Hey! Guys
 
@@ -8,4 +8,5 @@ A technical narrator of China. Aha! 😜
 
 MAKE IT BETTER!
 
-Weibo: https://weibo.com/zceme
+- Weibo: https://weibo.com/zceme
+- Bilibili: https://space.bilibili.com/210242179
