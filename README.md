@@ -1,4 +1,4 @@
-<img src="https://img.zce.me/qrcode/wechat.jpg" alt="WeChat: zce-me" align="right" height="200">
+<img src="https://img.zce.me/qrcode/wechat.jpg" alt="WeChat: zce-me" align="right" height="220">
 
 ### 👋 Hey! Guys
 
