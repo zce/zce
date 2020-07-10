@@ -38,21 +38,19 @@
     "test": "nyc ava"
   },
   "dependencies": {
-    "import-jsx": "^3.0.0",
-    "ink": "^2.3.0",
-    "ink-big-text": "^1.0.1",
+    "import-jsx": "^4.0.0",
+    "ink": "^2.7.1",
+    "ink-big-text": "^1.1.0",
     "ink-gradient": "^1.0.0",
-    "ink-select-input": "^3.1.1",
-    "open": "^7.0.0",
-    "react": "^16.8.6"
+    "ink-select-input": "^3.1.2",
+    "open": "^7.0.4",
+    "react": "^16.13.1"
   },
   "devDependencies": {
-    "ava": "2.4.0",
-    "nyc": "14.1.1",
-    "standard": "14.3.1"
+    "jest": "26.1.0",
+    "standard": "14.3.4"
   },
   "engines": {
-    "node": ">=6"
-  },
-  "preferGlobal": true
+    "node": ">=10"
+  }
 }
