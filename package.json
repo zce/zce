@@ -11,16 +11,16 @@
   "bugs": {
     "url": "https://github.com/zce/zce/issues"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zce/zce.git"
+  },
   "license": "MIT",
   "author": {
     "name": "zce",
     "email": "w@zce.me",
     "url": "https://zce.me"
   },
-  "files": [
-    "bin",
-    "lib"
-  ],
   "main": "lib/index.js",
   "bin": {
     "z": "bin/zce.js"
@@ -29,14 +29,16 @@
     "lib": "lib",
     "test": "test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zce/zce.git"
-  },
+  "files": [
+    "bin",
+    "lib"
+  ],
   "scripts": {
     "lint": "standard --fix",
-    "preship": "npm run lint",
-    "ship": "npm publish --registry https://registry.npmjs.org"
+    "prepublish": "npm run lint"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
   },
   "dependencies": {
     "import-jsx": "^4.0.0",
