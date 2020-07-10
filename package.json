@@ -1,7 +1,7 @@
 {
   "name": "zce",
   "version": "0.2.0",
-  "description": "The zce personal info CLI",
+  "description": "zce's profile",
   "keywords": [
     "personal",
     "cli",
@@ -35,7 +35,8 @@
   },
   "scripts": {
     "lint": "standard --fix",
-    "test": "nyc ava"
+    "preship": "npm run lint",
+    "ship": "npm publish --registry https://registry.npmjs.org"
   },
   "dependencies": {
     "import-jsx": "^4.0.0",
@@ -47,7 +48,6 @@
     "react": "^16.13.1"
   },
   "devDependencies": {
-    "jest": "26.1.0",
     "standard": "14.3.4"
   },
   "engines": {
