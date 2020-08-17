@@ -7,46 +7,27 @@
     "cli",
     "zce"
   ],
-  "homepage": "https://github.com/zce/zce#readme",
-  "bugs": {
-    "url": "https://github.com/zce/zce/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zce/zce.git"
-  },
+  "repository": "zce/zce",
   "license": "MIT",
-  "author": {
-    "name": "zce",
-    "email": "w@zce.me",
-    "url": "https://zce.me"
-  },
+  "author": "zce <w@zce.me> (https://zce.me)",
   "main": "lib/index.js",
-  "bin": {
-    "z": "bin/zce.js"
-  },
-  "directories": {
-    "lib": "lib",
-    "test": "test"
-  },
-  "files": [
-    "bin",
-    "lib"
-  ],
+  "bin": "bin/zce.js",
   "scripts": {
-    "lint": "standard --fix",
-    "prepublish": "npm run lint"
+    "test": "standard --fix",
+    "prepare": "npm test"
   },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+  "renovate": {
+    "extends": [
+      "zce"
+    ]
   },
   "dependencies": {
     "import-jsx": "^4.0.0",
-    "ink": "^3.0.0",
+    "ink": "^3.0.3",
     "ink-big-text": "^1.1.0",
-    "ink-gradient": "^1.0.0",
+    "ink-gradient": "^2.0.0",
     "ink-select-input": "^4.0.0",
-    "open": "^7.0.4",
+    "open": "^7.1.0",
     "react": "^16.13.1"
   },
   "devDependencies": {
@@ -54,5 +35,8 @@
   },
   "engines": {
     "node": ">=10"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
   }
 }
