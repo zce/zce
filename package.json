@@ -28,7 +28,7 @@
     "ink-gradient": "^2.0.0",
     "ink-select-input": "^4.0.0",
     "open": "^7.1.0",
-    "react": "^16.13.1"
+    "react": "^17.0.0"
   },
   "devDependencies": {
     "standard": "14.3.4"
