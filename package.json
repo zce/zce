@@ -22,7 +22,7 @@
     ]
   },
   "dependencies": {
-    "import-jsx": "^4.0.0",
+    "import-jsx": "^5.0.0",
     "ink": "^3.0.3",
     "ink-big-text": "^1.1.0",
     "ink-gradient": "^2.0.0",
