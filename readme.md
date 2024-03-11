@@ -2,7 +2,7 @@
 
 #### 👋 Hey! Guys
 
-## I'm Lei Wang
+### I'm Lei Wang
 
 A indie technical narrator of China. Aha! 😜
 
