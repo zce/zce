@@ -19,7 +19,7 @@ const items = [
   {
     key: 'twitter',
     label: 'Twitter',
-    url: 'https://twitter.com/w_zce'
+    url: 'https://twitter.com/zceme'
   },
   {
     key: 'weibo',
@@ -29,7 +29,7 @@ const items = [
   {
     key: 'blog',
     label: 'Blog',
-    url: 'https://blog.zce.me'
+    url: 'https://zenc.cn'
   },
   {
     key: 'bilibili',

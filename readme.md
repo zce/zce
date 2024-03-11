@@ -1,4 +1,4 @@
-<img src="./wechat.jpg" alt="WeChat QRCode" title="WeChat: zce-me" align="right" height="240">
+<img src=".github/wechat.jpg" alt="WeChat QRCode" title="WeChat: zce-me" align="right" height="240">
 
 #### 👋 Hey! Guys
 
