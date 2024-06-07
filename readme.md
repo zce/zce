@@ -9,5 +9,5 @@ A indie technical narrator of China. Aha! 😜
 _MAKE IT BETTER!_
 
 - Twitter: https://twitter.com/zceme
-- Weibo: https://weibo.com/zceme
+- ~~Weibo: https://weibo.com/zceme~~
 - Bilibili: https://space.bilibili.com/210242179
