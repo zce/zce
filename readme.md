@@ -4,7 +4,7 @@
 
 ### I'm Lei Wang
 
-A indie technical narrator of China. Aha! 😜
+A indie technical narrator. Aha! 😜
 
 _MAKE IT BETTER!_
 
