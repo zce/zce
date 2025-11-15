@@ -21,7 +21,7 @@
     "ink-big-text": "^2.0.0",
     "ink-gradient": "^3.0.0",
     "ink-select-input": "^6.0.0",
-    "open": "^10.1.0",
+    "open": "^11.0.0",
     "react": "^19.0.0"
   },
   "devDependencies": {
